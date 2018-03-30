@@ -64,5 +64,9 @@ if test "$PHP_ZEEYER" != "no"; then
   dnl
   dnl PHP_SUBST(ZEEYER_SHARED_LIBADD)
 
-  PHP_NEW_EXTENSION(zeeyer, zeeyer.c zeeyer_request.c zeeyer_router.c zeeyer_application.c, $ext_shared,, -DZEND_ENABLE_STATIC_TSRMLS_CACHE=1)
+  PHP_NEW_EXTENSION(zeeyer, zeeyer.c \
+  zeeyer_request.c \
+  zeeyer_router.c \
+  zeeyer_application.c \
+  zeeyer_config.c, $ext_shared,, -DZEND_ENABLE_STATIC_TSRMLS_CACHE=1)
 fi

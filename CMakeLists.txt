@@ -11,7 +11,10 @@ set(SOURCE_FILES
         zeeyer_router.h
         zeeyer_router.c
         zeeyer_application.c
-        zeeyer_application.h)
+        zeeyer_application.h
+        zeeyer_config.c
+        zeeyer_config.h
+        )
 
 add_executable(zeeyer ${SOURCE_FILES})
 

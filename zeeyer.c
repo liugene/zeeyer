@@ -30,6 +30,7 @@
 #include "zeeyer_request.h"
 #include "zeeyer_router.h"
 #include "zeeyer_application.h"
+#include "zeeyer_config.h"
 
 /* If you declare any globals in php_zeeyer.h uncomment this:
 ZEND_DECLARE_MODULE_GLOBALS(zeeyer)
@@ -98,6 +99,7 @@ PHP_MINIT_FUNCTION(zeeyer)
     ZEEYER_STARTUP(Request);
     ZEEYER_STARTUP(Router);
     ZEEYER_STARTUP(Application);
+    ZEEYER_STARTUP(Config);
 	return SUCCESS;
 }
 /* }}} */

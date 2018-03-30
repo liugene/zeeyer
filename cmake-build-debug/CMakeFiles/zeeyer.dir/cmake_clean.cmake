@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/zeeyer.dir/zeeyer_request.c.o"
   "CMakeFiles/zeeyer.dir/zeeyer_router.c.o"
   "CMakeFiles/zeeyer.dir/zeeyer_application.c.o"
+  "CMakeFiles/zeeyer.dir/zeeyer_config.c.o"
   "zeeyer.pdb"
   "zeeyer"
 )

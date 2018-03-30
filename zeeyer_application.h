@@ -7,8 +7,11 @@
 
 ZEEYER_STARTUP_FUNCTION(Application);
 
-extern zend_class_entry *zeeyer_application_ce;
+extern zend_class_entry * zeeyer_application_ce;
 
 ZEND_METHOD(ZeeyerApplication, run);
+ZEND_METHOD(ZeeyerApplication, request);
+ZEND_METHOD(ZeeyerApplication, response);
+ZEND_METHOD(ZeeyerApplication, set);
 
 #endif //ZEEYER_APPLICATION_H

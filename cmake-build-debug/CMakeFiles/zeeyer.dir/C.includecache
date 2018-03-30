@@ -29,6 +29,8 @@ zeeyer_router.h
 /Users/liujun/workspace/c/zeeyer/zeeyer_router.h
 zeeyer_application.h
 /Users/liujun/workspace/c/zeeyer/zeeyer_application.h
+zeeyer_config.h
+/Users/liujun/workspace/c/zeeyer/zeeyer_config.h
 
 /Users/liujun/workspace/c/zeeyer/zeeyer_application.c
 php.h
@@ -39,6 +41,16 @@ zeeyer_application.h
 /Users/liujun/workspace/c/zeeyer/zeeyer_application.h
 
 /Users/liujun/workspace/c/zeeyer/zeeyer_application.h
+
+/Users/liujun/workspace/c/zeeyer/zeeyer_config.c
+php.h
+/Users/liujun/workspace/c/zeeyer/php.h
+php_zeeyer.h
+/Users/liujun/workspace/c/zeeyer/php_zeeyer.h
+zeeyer_config.h
+/Users/liujun/workspace/c/zeeyer/zeeyer_config.h
+
+/Users/liujun/workspace/c/zeeyer/zeeyer_config.h
 
 /Users/liujun/workspace/c/zeeyer/zeeyer_request.c
 php.h

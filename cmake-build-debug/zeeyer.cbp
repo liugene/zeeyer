@@ -114,6 +114,12 @@
 		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_application.h">
 			<Option target="zeeyer"/>
 		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_config.c">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_config.h">
+			<Option target="zeeyer"/>
+		</Unit>
 		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_request.c">
 			<Option target="zeeyer"/>
 		</Unit>
