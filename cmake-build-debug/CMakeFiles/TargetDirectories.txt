@@ -1,0 +1,4 @@
+/Users/liujun/workspace/c/zeeyer/cmake-build-debug/CMakeFiles/makefile.dir
+/Users/liujun/workspace/c/zeeyer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liujun/workspace/c/zeeyer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liujun/workspace/c/zeeyer/cmake-build-debug/CMakeFiles/zeeyer.dir

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="zeeyer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/liujun/workspace/c/zeeyer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="makefile">
+				<Option working_dir="/Users/liujun/workspace/c/zeeyer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 makefile"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/liujun/workspace/c/zeeyer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/liujun/workspace/c/zeeyer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zeeyer">
+				<Option output="/Users/liujun/workspace/c/zeeyer/cmake-build-debug/zeeyer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujun/workspace/c/zeeyer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/php/main"/>
+					<Add directory="/usr/include/php/Zend"/>
+					<Add directory="/usr/include/php/sapi"/>
+					<Add directory="/usr/include/php/TSRM"/>
+					<Add directory="/usr/include/php"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 zeeyer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zeeyer/fast">
+				<Option output="/Users/liujun/workspace/c/zeeyer/cmake-build-debug/zeeyer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujun/workspace/c/zeeyer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/php/main"/>
+					<Add directory="/usr/include/php/Zend"/>
+					<Add directory="/usr/include/php/sapi"/>
+					<Add directory="/usr/include/php/TSRM"/>
+					<Add directory="/usr/include/php"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 zeeyer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujun/workspace/c/zeeyer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/php_zeeyer.h">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer.c">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_application.c">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_application.h">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_request.c">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_request.h">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_router.c">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/zeeyer_router.h">
+			<Option target="zeeyer"/>
+		</Unit>
+		<Unit filename="/Users/liujun/workspace/c/zeeyer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
